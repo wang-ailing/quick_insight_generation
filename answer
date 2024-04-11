@@ -1,0 +1,1008 @@
+{'product_name': 'car1', 'platform': '微博', 'sentiment': '正面'}
+volume_type
+PGC    50
+UGC    70
+Name: sum, dtype: int64
+({'index': -1}, None)
+({'index': -1}, None)
+({'index': -1}, None)
+{'product_name': 'car1', 'platform': '微博', 'sentiment': '中性'}
+volume_type
+PGC    215
+UGC     70
+Name: sum, dtype: int64
+({'index': -1}, None)
+({'index': -1}, None)
+({'index': -1}, None)
+{'product_name': 'car1', 'platform': '微博', 'sentiment': '负面'}
+Series([], Name: sum, dtype: int64)
+{'product_name': 'car1', 'platform': '微博', 'volume_type': 'PGC'}
+sentiment
+中性    215
+正面     50
+Name: sum, dtype: int64
+({'index': -1}, None)
+({'index': -1}, None)
+({'index': -1}, None)
+{'product_name': 'car1', 'platform': '微博', 'volume_type': 'UGC'}
+sentiment
+中性    70
+正面    70
+Name: sum, dtype: int64
+({'index': -1}, None)
+({'index': -1}, None)
+({'index': -1}, None)
+{'product_name': 'car1', 'platform': '微博', 'volume_type': '*'}
+sentiment
+中性    285
+正面    120
+Name: sum, dtype: int64
+({'index': -1}, None)
+({'index': -1}, None)
+({'index': -1}, None)
+{'product_name': 'car1', 'platform': '微博', 'sentiment': '*'}
+volume_type
+PGC    265
+UGC    140
+Name: sum, dtype: int64
+({'index': -1}, None)
+({'index': -1}, None)
+({'index': -1}, None)
+{'product_name': 'car1', 'platform': '短视频', 'sentiment': '正面'}
+volume_type
+PGC    50
+Name: sum, dtype: int64
+{'product_name': 'car1', 'platform': '短视频', 'sentiment': '中性'}
+volume_type
+PGC    215
+UGC    140
+Name: sum, dtype: int64
+({'index': -1}, None)
+({'index': -1}, None)
+({'index': -1}, None)
+{'product_name': 'car1', 'platform': '短视频', 'sentiment': '负面'}
+Series([], Name: sum, dtype: int64)
+{'product_name': 'car1', 'platform': '短视频', 'volume_type': 'PGC'}
+sentiment
+中性    215
+正面     50
+Name: sum, dtype: int64
+({'index': -1}, None)
+({'index': -1}, None)
+({'index': -1}, None)
+{'product_name': 'car1', 'platform': '短视频', 'volume_type': 'UGC'}
+sentiment
+中性    140
+Name: sum, dtype: int64
+{'product_name': 'car1', 'platform': '短视频', 'volume_type': '*'}
+sentiment
+中性    355
+正面     50
+Name: sum, dtype: int64
+({'index': -1}, None)
+({'index': -1}, None)
+({'index': -1}, None)
+{'product_name': 'car1', 'platform': '短视频', 'sentiment': '*'}
+volume_type
+PGC    265
+UGC    140
+Name: sum, dtype: int64
+({'index': -1}, None)
+({'index': -1}, None)
+({'index': -1}, None)
+{'product_name': 'car1', 'sentiment': '正面', 'volume_type': 'PGC'}
+platform
+微博     50
+短视频    50
+Name: sum, dtype: int64
+({'index': -1}, None)
+({'index': -1}, None)
+({'index': -1}, None)
+{'product_name': 'car1', 'sentiment': '正面', 'volume_type': 'UGC'}
+platform
+微博    70
+Name: sum, dtype: int64
+{'product_name': 'car1', 'sentiment': '正面', 'volume_type': '*'}
+platform
+微博     120
+短视频     50
+Name: sum, dtype: int64
+({'index': -1}, None)
+({'index': -1}, None)
+({'index': -1}, None)
+{'product_name': 'car1', 'sentiment': '正面', 'platform': '*'}
+volume_type
+PGC    100
+UGC     70
+Name: sum, dtype: int64
+({'index': -1}, None)
+({'index': -1}, None)
+({'index': -1}, None)
+{'product_name': 'car1', 'sentiment': '中性', 'volume_type': 'PGC'}
+platform
+微博     215
+短视频    215
+Name: sum, dtype: int64
+({'index': -1}, None)
+({'index': -1}, None)
+({'index': -1}, None)
+{'product_name': 'car1', 'sentiment': '中性', 'volume_type': 'UGC'}
+platform
+微博      70
+短视频    140
+Name: sum, dtype: int64
+({'index': -1}, None)
+({'index': -1}, None)
+({'index': -1}, None)
+{'product_name': 'car1', 'sentiment': '中性', 'volume_type': '*'}
+platform
+微博     285
+短视频    355
+Name: sum, dtype: int64
+({'index': -1}, None)
+({'index': -1}, None)
+({'index': -1}, None)
+{'product_name': 'car1', 'sentiment': '中性', 'platform': '*'}
+volume_type
+PGC    430
+UGC    210
+Name: sum, dtype: int64
+({'index': -1}, None)
+({'index': -1}, None)
+({'index': -1}, None)
+{'product_name': 'car1', 'sentiment': '负面', 'volume_type': 'PGC'}
+Series([], Name: sum, dtype: int64)
+{'product_name': 'car1', 'sentiment': '负面', 'volume_type': 'UGC'}
+Series([], Name: sum, dtype: int64)
+{'product_name': 'car1', 'sentiment': '负面', 'volume_type': '*'}
+Series([], Name: sum, dtype: int64)
+{'product_name': 'car1', 'sentiment': '负面', 'platform': '*'}
+Series([], Name: sum, dtype: int64)
+{'product_name': 'car1', 'volume_type': 'PGC', 'sentiment': '*'}
+platform
+微博     265
+短视频    265
+Name: sum, dtype: int64
+({'index': -1}, None)
+({'index': -1}, None)
+({'index': -1}, None)
+{'product_name': 'car1', 'volume_type': 'PGC', 'platform': '*'}
+sentiment
+中性    430
+正面    100
+Name: sum, dtype: int64
+({'index': -1}, None)
+({'index': -1}, None)
+({'index': -1}, None)
+{'product_name': 'car1', 'volume_type': 'UGC', 'sentiment': '*'}
+platform
+微博     140
+短视频    140
+Name: sum, dtype: int64
+({'index': -1}, None)
+({'index': -1}, None)
+({'index': -1}, None)
+{'product_name': 'car1', 'volume_type': 'UGC', 'platform': '*'}
+sentiment
+中性    210
+正面     70
+Name: sum, dtype: int64
+({'index': -1}, None)
+({'index': -1}, None)
+({'index': -1}, None)
+{'product_name': 'car1', 'sentiment': '*', 'volume_type': '*'}
+platform
+微博     405
+短视频    405
+Name: sum, dtype: int64
+({'index': -1}, None)
+({'index': -1}, None)
+({'index': -1}, None)
+{'product_name': 'car1', 'platform': '*', 'volume_type': '*'}
+sentiment
+中性    640
+正面    170
+Name: sum, dtype: int64
+({'index': -1}, None)
+({'index': -1}, None)
+({'index': -1}, None)
+{'product_name': 'car1', 'platform': '*', 'sentiment': '*'}
+volume_type
+PGC    530
+UGC    280
+Name: sum, dtype: int64
+({'index': -1}, None)
+({'index': -1}, None)
+({'index': -1}, None)
+{'product_name': 'car2', 'platform': '微博', 'sentiment': '正面'}
+volume_type
+PGC    10
+Name: sum, dtype: int64
+{'product_name': 'car2', 'platform': '微博', 'sentiment': '中性'}
+volume_type
+PGC    105
+UGC    140
+Name: sum, dtype: int64
+({'index': -1}, None)
+({'index': -1}, None)
+({'index': -1}, None)
+{'product_name': 'car2', 'platform': '微博', 'sentiment': '负面'}
+volume_type
+PGC    30
+Name: sum, dtype: int64
+{'product_name': 'car2', 'platform': '微博', 'volume_type': 'PGC'}
+sentiment
+中性    105
+正面     10
+负面     30
+Name: sum, dtype: int64
+({'index': -1}, None)
+({'index': -1}, None)
+({'index': -1}, None)
+{'product_name': 'car2', 'platform': '微博', 'volume_type': 'UGC'}
+sentiment
+中性    140
+Name: sum, dtype: int64
+{'product_name': 'car2', 'platform': '微博', 'volume_type': '*'}
+sentiment
+中性    245
+正面     10
+负面     30
+Name: sum, dtype: int64
+({'index': -1}, None)
+({'index': -1}, None)
+({'index': -1}, None)
+{'product_name': 'car2', 'platform': '微博', 'sentiment': '*'}
+volume_type
+PGC    145
+UGC    140
+Name: sum, dtype: int64
+({'index': -1}, None)
+({'index': -1}, None)
+({'index': -1}, None)
+{'product_name': 'car2', 'platform': '短视频', 'sentiment': '正面'}
+volume_type
+PGC    10
+Name: sum, dtype: int64
+{'product_name': 'car2', 'platform': '短视频', 'sentiment': '中性'}
+volume_type
+PGC    105
+UGC    140
+Name: sum, dtype: int64
+({'index': -1}, None)
+({'index': -1}, None)
+({'index': -1}, None)
+{'product_name': 'car2', 'platform': '短视频', 'sentiment': '负面'}
+volume_type
+PGC    30
+Name: sum, dtype: int64
+{'product_name': 'car2', 'platform': '短视频', 'volume_type': 'PGC'}
+sentiment
+中性    105
+正面     10
+负面     30
+Name: sum, dtype: int64
+({'index': -1}, None)
+({'index': -1}, None)
+({'index': -1}, None)
+{'product_name': 'car2', 'platform': '短视频', 'volume_type': 'UGC'}
+sentiment
+中性    140
+Name: sum, dtype: int64
+{'product_name': 'car2', 'platform': '短视频', 'volume_type': '*'}
+sentiment
+中性    245
+正面     10
+负面     30
+Name: sum, dtype: int64
+({'index': -1}, None)
+({'index': -1}, None)
+({'index': -1}, None)
+{'product_name': 'car2', 'platform': '短视频', 'sentiment': '*'}
+volume_type
+PGC    145
+UGC    140
+Name: sum, dtype: int64
+({'index': -1}, None)
+({'index': -1}, None)
+({'index': -1}, None)
+{'product_name': 'car2', 'sentiment': '正面', 'volume_type': 'PGC'}
+platform
+微博     10
+短视频    10
+Name: sum, dtype: int64
+({'index': -1}, None)
+({'index': -1}, None)
+({'index': -1}, None)
+{'product_name': 'car2', 'sentiment': '正面', 'volume_type': 'UGC'}
+Series([], Name: sum, dtype: int64)
+{'product_name': 'car2', 'sentiment': '正面', 'volume_type': '*'}
+platform
+微博     10
+短视频    10
+Name: sum, dtype: int64
+({'index': -1}, None)
+({'index': -1}, None)
+({'index': -1}, None)
+{'product_name': 'car2', 'sentiment': '正面', 'platform': '*'}
+volume_type
+PGC    20
+Name: sum, dtype: int64
+{'product_name': 'car2', 'sentiment': '中性', 'volume_type': 'PGC'}
+platform
+微博     105
+短视频    105
+Name: sum, dtype: int64
+({'index': -1}, None)
+({'index': -1}, None)
+({'index': -1}, None)
+{'product_name': 'car2', 'sentiment': '中性', 'volume_type': 'UGC'}
+platform
+微博     140
+短视频    140
+Name: sum, dtype: int64
+({'index': -1}, None)
+({'index': -1}, None)
+({'index': -1}, None)
+{'product_name': 'car2', 'sentiment': '中性', 'volume_type': '*'}
+platform
+微博     245
+短视频    245
+Name: sum, dtype: int64
+({'index': -1}, None)
+({'index': -1}, None)
+({'index': -1}, None)
+{'product_name': 'car2', 'sentiment': '中性', 'platform': '*'}
+volume_type
+PGC    210
+UGC    280
+Name: sum, dtype: int64
+({'index': -1}, None)
+({'index': -1}, None)
+({'index': -1}, None)
+{'product_name': 'car2', 'sentiment': '负面', 'volume_type': 'PGC'}
+platform
+微博     30
+短视频    30
+Name: sum, dtype: int64
+({'index': -1}, None)
+({'index': -1}, None)
+({'index': -1}, None)
+{'product_name': 'car2', 'sentiment': '负面', 'volume_type': 'UGC'}
+Series([], Name: sum, dtype: int64)
+{'product_name': 'car2', 'sentiment': '负面', 'volume_type': '*'}
+platform
+微博     30
+短视频    30
+Name: sum, dtype: int64
+({'index': -1}, None)
+({'index': -1}, None)
+({'index': -1}, None)
+{'product_name': 'car2', 'sentiment': '负面', 'platform': '*'}
+volume_type
+PGC    60
+Name: sum, dtype: int64
+{'product_name': 'car2', 'volume_type': 'PGC', 'sentiment': '*'}
+platform
+微博     145
+短视频    145
+Name: sum, dtype: int64
+({'index': -1}, None)
+({'index': -1}, None)
+({'index': -1}, None)
+{'product_name': 'car2', 'volume_type': 'PGC', 'platform': '*'}
+sentiment
+中性    210
+正面     20
+负面     60
+Name: sum, dtype: int64
+({'index': -1}, None)
+({'index': -1}, None)
+({'index': -1}, None)
+{'product_name': 'car2', 'volume_type': 'UGC', 'sentiment': '*'}
+platform
+微博     140
+短视频    140
+Name: sum, dtype: int64
+({'index': -1}, None)
+({'index': -1}, None)
+({'index': -1}, None)
+{'product_name': 'car2', 'volume_type': 'UGC', 'platform': '*'}
+sentiment
+中性    280
+Name: sum, dtype: int64
+{'product_name': 'car2', 'sentiment': '*', 'volume_type': '*'}
+platform
+微博     285
+短视频    285
+Name: sum, dtype: int64
+({'index': -1}, None)
+({'index': -1}, None)
+({'index': -1}, None)
+{'product_name': 'car2', 'platform': '*', 'volume_type': '*'}
+sentiment
+中性    490
+正面     20
+负面     60
+Name: sum, dtype: int64
+({'index': -1}, None)
+({'index': -1}, None)
+({'index': -1}, None)
+{'product_name': 'car2', 'platform': '*', 'sentiment': '*'}
+volume_type
+PGC    290
+UGC    280
+Name: sum, dtype: int64
+({'index': -1}, None)
+({'index': -1}, None)
+({'index': -1}, None)
+{'platform': '微博', 'sentiment': '正面', 'volume_type': 'PGC'}
+product_name
+car1    50
+car2    10
+Name: sum, dtype: int64
+({'index': -1}, None)
+({'index': -1}, None)
+({'index': -1}, None)
+{'platform': '微博', 'sentiment': '正面', 'volume_type': 'UGC'}
+product_name
+car1    70
+Name: sum, dtype: int64
+{'platform': '微博', 'sentiment': '正面', 'volume_type': '*'}
+product_name
+car1    120
+car2     10
+Name: sum, dtype: int64
+({'index': -1}, None)
+({'index': -1}, None)
+({'index': -1}, None)
+{'platform': '微博', 'sentiment': '正面', 'product_name': '*'}
+volume_type
+PGC    60
+UGC    70
+Name: sum, dtype: int64
+({'index': -1}, None)
+({'index': -1}, None)
+({'index': -1}, None)
+{'platform': '微博', 'sentiment': '中性', 'volume_type': 'PGC'}
+product_name
+car1    215
+car2    105
+Name: sum, dtype: int64
+({'index': -1}, None)
+({'index': -1}, None)
+({'index': -1}, None)
+{'platform': '微博', 'sentiment': '中性', 'volume_type': 'UGC'}
+product_name
+car1     70
+car2    140
+Name: sum, dtype: int64
+({'index': -1}, None)
+({'index': -1}, None)
+({'index': -1}, None)
+{'platform': '微博', 'sentiment': '中性', 'volume_type': '*'}
+product_name
+car1    285
+car2    245
+Name: sum, dtype: int64
+({'index': -1}, None)
+({'index': -1}, None)
+({'index': -1}, None)
+{'platform': '微博', 'sentiment': '中性', 'product_name': '*'}
+volume_type
+PGC    320
+UGC    210
+Name: sum, dtype: int64
+({'index': -1}, None)
+({'index': -1}, None)
+({'index': -1}, None)
+{'platform': '微博', 'sentiment': '负面', 'volume_type': 'PGC'}
+product_name
+car2    30
+Name: sum, dtype: int64
+{'platform': '微博', 'sentiment': '负面', 'volume_type': 'UGC'}
+Series([], Name: sum, dtype: int64)
+{'platform': '微博', 'sentiment': '负面', 'volume_type': '*'}
+product_name
+car2    30
+Name: sum, dtype: int64
+{'platform': '微博', 'sentiment': '负面', 'product_name': '*'}
+volume_type
+PGC    30
+Name: sum, dtype: int64
+{'platform': '微博', 'volume_type': 'PGC', 'sentiment': '*'}
+product_name
+car1    265
+car2    145
+Name: sum, dtype: int64
+({'index': -1}, None)
+({'index': -1}, None)
+({'index': -1}, None)
+{'platform': '微博', 'volume_type': 'PGC', 'product_name': '*'}
+sentiment
+中性    320
+正面     60
+负面     30
+Name: sum, dtype: int64
+({'index': -1}, None)
+({'index': -1}, None)
+({'index': -1}, None)
+{'platform': '微博', 'volume_type': 'UGC', 'sentiment': '*'}
+product_name
+car1    140
+car2    140
+Name: sum, dtype: int64
+({'index': -1}, None)
+({'index': -1}, None)
+({'index': -1}, None)
+{'platform': '微博', 'volume_type': 'UGC', 'product_name': '*'}
+sentiment
+中性    210
+正面     70
+Name: sum, dtype: int64
+({'index': -1}, None)
+({'index': -1}, None)
+({'index': -1}, None)
+{'platform': '微博', 'sentiment': '*', 'volume_type': '*'}
+product_name
+car1    405
+car2    285
+Name: sum, dtype: int64
+({'index': -1}, None)
+({'index': -1}, None)
+({'index': -1}, None)
+{'platform': '微博', 'product_name': '*', 'volume_type': '*'}
+sentiment
+中性    530
+正面    130
+负面     30
+Name: sum, dtype: int64
+({'index': -1}, None)
+({'index': -1}, None)
+({'index': -1}, None)
+{'platform': '微博', 'product_name': '*', 'sentiment': '*'}
+volume_type
+PGC    410
+UGC    280
+Name: sum, dtype: int64
+({'index': -1}, None)
+({'index': -1}, None)
+({'index': -1}, None)
+{'platform': '短视频', 'sentiment': '正面', 'volume_type': 'PGC'}
+product_name
+car1    50
+car2    10
+Name: sum, dtype: int64
+({'index': -1}, None)
+({'index': -1}, None)
+({'index': -1}, None)
+{'platform': '短视频', 'sentiment': '正面', 'volume_type': 'UGC'}
+Series([], Name: sum, dtype: int64)
+{'platform': '短视频', 'sentiment': '正面', 'volume_type': '*'}
+product_name
+car1    50
+car2    10
+Name: sum, dtype: int64
+({'index': -1}, None)
+({'index': -1}, None)
+({'index': -1}, None)
+{'platform': '短视频', 'sentiment': '正面', 'product_name': '*'}
+volume_type
+PGC    60
+Name: sum, dtype: int64
+{'platform': '短视频', 'sentiment': '中性', 'volume_type': 'PGC'}
+product_name
+car1    215
+car2    105
+Name: sum, dtype: int64
+({'index': -1}, None)
+({'index': -1}, None)
+({'index': -1}, None)
+{'platform': '短视频', 'sentiment': '中性', 'volume_type': 'UGC'}
+product_name
+car1    140
+car2    140
+Name: sum, dtype: int64
+({'index': -1}, None)
+({'index': -1}, None)
+({'index': -1}, None)
+{'platform': '短视频', 'sentiment': '中性', 'volume_type': '*'}
+product_name
+car1    355
+car2    245
+Name: sum, dtype: int64
+({'index': -1}, None)
+({'index': -1}, None)
+({'index': -1}, None)
+{'platform': '短视频', 'sentiment': '中性', 'product_name': '*'}
+volume_type
+PGC    320
+UGC    280
+Name: sum, dtype: int64
+({'index': -1}, None)
+({'index': -1}, None)
+({'index': -1}, None)
+{'platform': '短视频', 'sentiment': '负面', 'volume_type': 'PGC'}
+product_name
+car2    30
+Name: sum, dtype: int64
+{'platform': '短视频', 'sentiment': '负面', 'volume_type': 'UGC'}
+Series([], Name: sum, dtype: int64)
+{'platform': '短视频', 'sentiment': '负面', 'volume_type': '*'}
+product_name
+car2    30
+Name: sum, dtype: int64
+{'platform': '短视频', 'sentiment': '负面', 'product_name': '*'}
+volume_type
+PGC    30
+Name: sum, dtype: int64
+{'platform': '短视频', 'volume_type': 'PGC', 'sentiment': '*'}
+product_name
+car1    265
+car2    145
+Name: sum, dtype: int64
+({'index': -1}, None)
+({'index': -1}, None)
+({'index': -1}, None)
+{'platform': '短视频', 'volume_type': 'PGC', 'product_name': '*'}
+sentiment
+中性    320
+正面     60
+负面     30
+Name: sum, dtype: int64
+({'index': -1}, None)
+({'index': -1}, None)
+({'index': -1}, None)
+{'platform': '短视频', 'volume_type': 'UGC', 'sentiment': '*'}
+product_name
+car1    140
+car2    140
+Name: sum, dtype: int64
+({'index': -1}, None)
+({'index': -1}, None)
+({'index': -1}, None)
+{'platform': '短视频', 'volume_type': 'UGC', 'product_name': '*'}
+sentiment
+中性    280
+Name: sum, dtype: int64
+{'platform': '短视频', 'sentiment': '*', 'volume_type': '*'}
+product_name
+car1    405
+car2    285
+Name: sum, dtype: int64
+({'index': -1}, None)
+({'index': -1}, None)
+({'index': -1}, None)
+{'platform': '短视频', 'product_name': '*', 'volume_type': '*'}
+sentiment
+中性    600
+正面     60
+负面     30
+Name: sum, dtype: int64
+({'index': -1}, None)
+({'index': -1}, None)
+({'index': -1}, None)
+{'platform': '短视频', 'product_name': '*', 'sentiment': '*'}
+volume_type
+PGC    410
+UGC    280
+Name: sum, dtype: int64
+({'index': -1}, None)
+({'index': -1}, None)
+({'index': -1}, None)
+{'sentiment': '正面', 'volume_type': 'PGC', 'platform': '*'}
+product_name
+car1    100
+car2     20
+Name: sum, dtype: int64
+({'index': -1}, None)
+({'index': -1}, None)
+({'index': -1}, None)
+{'sentiment': '正面', 'volume_type': 'PGC', 'product_name': '*'}
+platform
+微博     60
+短视频    60
+Name: sum, dtype: int64
+({'index': -1}, None)
+({'index': -1}, None)
+({'index': -1}, None)
+{'sentiment': '正面', 'volume_type': 'UGC', 'platform': '*'}
+product_name
+car1    70
+Name: sum, dtype: int64
+{'sentiment': '正面', 'volume_type': 'UGC', 'product_name': '*'}
+platform
+微博    70
+Name: sum, dtype: int64
+{'sentiment': '正面', 'platform': '*', 'volume_type': '*'}
+product_name
+car1    170
+car2     20
+Name: sum, dtype: int64
+({'index': -1}, None)
+({'index': -1}, None)
+({'index': -1}, None)
+{'sentiment': '正面', 'product_name': '*', 'volume_type': '*'}
+platform
+微博     130
+短视频     60
+Name: sum, dtype: int64
+({'index': -1}, None)
+({'index': -1}, None)
+({'index': -1}, None)
+{'sentiment': '正面', 'product_name': '*', 'platform': '*'}
+volume_type
+PGC    120
+UGC     70
+Name: sum, dtype: int64
+({'index': -1}, None)
+({'index': -1}, None)
+({'index': -1}, None)
+{'sentiment': '中性', 'volume_type': 'PGC', 'platform': '*'}
+product_name
+car1    430
+car2    210
+Name: sum, dtype: int64
+({'index': -1}, None)
+({'index': -1}, None)
+({'index': -1}, None)
+{'sentiment': '中性', 'volume_type': 'PGC', 'product_name': '*'}
+platform
+微博     320
+短视频    320
+Name: sum, dtype: int64
+({'index': -1}, None)
+({'index': -1}, None)
+({'index': -1}, None)
+{'sentiment': '中性', 'volume_type': 'UGC', 'platform': '*'}
+product_name
+car1    210
+car2    280
+Name: sum, dtype: int64
+({'index': -1}, None)
+({'index': -1}, None)
+({'index': -1}, None)
+{'sentiment': '中性', 'volume_type': 'UGC', 'product_name': '*'}
+platform
+微博     210
+短视频    280
+Name: sum, dtype: int64
+({'index': -1}, None)
+({'index': -1}, None)
+({'index': -1}, None)
+{'sentiment': '中性', 'platform': '*', 'volume_type': '*'}
+product_name
+car1    640
+car2    490
+Name: sum, dtype: int64
+({'index': -1}, None)
+({'index': -1}, None)
+({'index': -1}, None)
+{'sentiment': '中性', 'product_name': '*', 'volume_type': '*'}
+platform
+微博     530
+短视频    600
+Name: sum, dtype: int64
+({'index': -1}, None)
+({'index': -1}, None)
+({'index': -1}, None)
+{'sentiment': '中性', 'product_name': '*', 'platform': '*'}
+volume_type
+PGC    640
+UGC    490
+Name: sum, dtype: int64
+({'index': -1}, None)
+({'index': -1}, None)
+({'index': -1}, None)
+{'sentiment': '负面', 'volume_type': 'PGC', 'platform': '*'}
+product_name
+car2    60
+Name: sum, dtype: int64
+{'sentiment': '负面', 'volume_type': 'PGC', 'product_name': '*'}
+platform
+微博     30
+短视频    30
+Name: sum, dtype: int64
+({'index': -1}, None)
+({'index': -1}, None)
+({'index': -1}, None)
+{'sentiment': '负面', 'volume_type': 'UGC', 'platform': '*'}
+Series([], Name: sum, dtype: int64)
+{'sentiment': '负面', 'volume_type': 'UGC', 'product_name': '*'}
+Series([], Name: sum, dtype: int64)
+{'sentiment': '负面', 'platform': '*', 'volume_type': '*'}
+product_name
+car2    60
+Name: sum, dtype: int64
+{'sentiment': '负面', 'product_name': '*', 'volume_type': '*'}
+platform
+微博     30
+短视频    30
+Name: sum, dtype: int64
+({'index': -1}, None)
+({'index': -1}, None)
+({'index': -1}, None)
+{'sentiment': '负面', 'product_name': '*', 'platform': '*'}
+volume_type
+PGC    60
+Name: sum, dtype: int64
+{'volume_type': 'PGC', 'platform': '*', 'sentiment': '*'}
+product_name
+car1    530
+car2    290
+Name: sum, dtype: int64
+({'index': -1}, None)
+({'index': -1}, None)
+({'index': -1}, None)
+{'volume_type': 'PGC', 'product_name': '*', 'sentiment': '*'}
+platform
+微博     410
+短视频    410
+Name: sum, dtype: int64
+({'index': -1}, None)
+({'index': -1}, None)
+({'index': -1}, None)
+{'volume_type': 'PGC', 'product_name': '*', 'platform': '*'}
+sentiment
+中性    640
+正面    120
+负面     60
+Name: sum, dtype: int64
+({'index': -1}, None)
+({'index': -1}, None)
+({'index': -1}, None)
+{'volume_type': 'UGC', 'platform': '*', 'sentiment': '*'}
+product_name
+car1    280
+car2    280
+Name: sum, dtype: int64
+({'index': -1}, None)
+({'index': -1}, None)
+({'index': -1}, None)
+{'volume_type': 'UGC', 'product_name': '*', 'sentiment': '*'}
+platform
+微博     280
+短视频    280
+Name: sum, dtype: int64
+({'index': -1}, None)
+({'index': -1}, None)
+({'index': -1}, None)
+{'volume_type': 'UGC', 'product_name': '*', 'platform': '*'}
+sentiment
+中性    490
+正面     70
+Name: sum, dtype: int64
+({'index': -1}, None)
+({'index': -1}, None)
+({'index': -1}, None)
+{'platform': '*', 'sentiment': '*', 'volume_type': '*'}
+product_name
+car1    810
+car2    570
+Name: sum, dtype: int64
+({'index': -1}, None)
+({'index': -1}, None)
+({'index': -1}, None)
+{'product_name': '*', 'sentiment': '*', 'volume_type': '*'}
+platform
+微博     690
+短视频    690
+Name: sum, dtype: int64
+({'index': -1}, None)
+({'index': -1}, None)
+({'index': -1}, None)
+{'product_name': '*', 'platform': '*', 'volume_type': '*'}
+sentiment
+中性    1130
+正面     190
+负面      60
+Name: sum, dtype: int64
+({'index': -1}, None)
+({'index': -1}, None)
+({'index': -1}, None)
+{'product_name': '*', 'platform': '*', 'sentiment': '*'}
+volume_type
+PGC    820
+UGC    560
+Name: sum, dtype: int64
+({'index': -1}, None)
+({'index': -1}, None)
+({'index': -1}, None)
+在过去一周内，有如下的声量特点：
+当product_name为car1、platform为微博、sentiment为正面时，volume_type中UGC的声量贡献量超过总量的一半（58.33%）。
+当product_name为car1、platform为微博、sentiment为中性时，volume_type中PGC的声量贡献量达到七成（75.44%）。
+当product_name为car1、platform为微博、volume_type为PGC时，sentiment中中性的声量贡献量达到八成（81.13%）。
+当product_name为car1、platform为微博、volume_type为UGC时，sentiment中中性的声量贡献量正好达到总量的一半。
+当product_name为car1、platform为微博时，sentiment中中性的声量贡献量达到七成（70.37%）。
+当product_name为car1、platform为微博时，volume_type中PGC的声量贡献量达到六成（65.43%）。
+当product_name为car1、platform为短视频、sentiment为中性时，volume_type中PGC的声量贡献量达到六成（60.56%）。
+当product_name为car1、platform为短视频、volume_type为PGC时，sentiment中中性的声量贡献量达到八成（81.13%）。
+当product_name为car1、platform为短视频时，sentiment中中性的声量贡献量达到八成（87.65%）。
+当product_name为car1、platform为短视频时，volume_type中PGC的声量贡献量达到六成（65.43%）。
+当product_name为car1、sentiment为正面、volume_type为PGC时，platform中微博的声量贡献量正好达到总量的一半。
+当product_name为car1、sentiment为正面时，platform中微博的声量贡献量达到七成（70.59%）。
+当product_name为car1、sentiment为正面时，volume_type中PGC的声量贡献量超过总量的一半（58.82%）。
+当product_name为car1、sentiment为中性、volume_type为PGC时，platform中微博的声量贡献量正好达到总量的一半。
+当product_name为car1、sentiment为中性、volume_type为UGC时，platform中短视频的声量贡献量达到六成（66.67%）。
+当product_name为car1、sentiment为中性时，platform中短视频的声量贡献量超过总量的一半（55.47%）。
+当product_name为car1、sentiment为中性时，volume_type中PGC的声量贡献量达到六成（67.19%）。
+当product_name为car1、volume_type为PGC时，platform中微博的声量贡献量正好达到总量的一半。
+当product_name为car1、volume_type为PGC时，sentiment中中性的声量贡献量达到八成（81.13%）。
+当product_name为car1、volume_type为UGC时，platform中微博的声量贡献量正好达到总量的一半。
+当product_name为car1、volume_type为UGC时，sentiment中中性的声量贡献量达到七成（75.0%）。
+当product_name为car1时，platform中微博的声量贡献量正好达到总量的一半。
+当product_name为car1时，sentiment中中性的声量贡献量达到七成（79.01%）。
+当product_name为car1时，volume_type中PGC的声量贡献量达到六成（65.43%）。
+当product_name为car2、platform为微博、sentiment为中性时，volume_type中UGC的声量贡献量超过总量的一半（57.14%）。
+当product_name为car2、platform为微博、volume_type为PGC时，sentiment中中性的声量贡献量达到七成（72.41%），并且是其余数据的3到10倍。
+当product_name为car2、platform为微博时，sentiment中中性的声量贡献量达到八成（85.96%），并且是其余数据的8到24倍。
+当product_name为car2、platform为微博时，volume_type中PGC的声量贡献量超过总量的一半（50.88%）。
+当product_name为car2、platform为短视频、sentiment为中性时，volume_type中UGC的声量贡献量超过总量的一半（57.14%）。
+当product_name为car2、platform为短视频、volume_type为PGC时，sentiment中中性的声量贡献量达到七成（72.41%），并且是其余数据的3到10倍。
+当product_name为car2、platform为短视频时，sentiment中中性的声量贡献量达到八成（85.96%），并且是其余数据的8到24倍。
+当product_name为car2、platform为短视频时，volume_type中PGC的声量贡献量超过总量的一半（50.88%）。
+当product_name为car2、sentiment为正面、volume_type为PGC时，platform中微博的声量贡献量正好达到总量的一半。
+当product_name为car2、sentiment为正面时，platform中微博的声量贡献量正好达到总量的一半。
+当product_name为car2、sentiment为中性、volume_type为PGC时，platform中微博的声量贡献量正好达到总量的一半。
+当product_name为car2、sentiment为中性、volume_type为UGC时，platform中微博的声量贡献量正好达到总量的一半。
+当product_name为car2、sentiment为中性时，platform中微博的声量贡献量正好达到总量的一半。
+当product_name为car2、sentiment为中性时，volume_type中UGC的声量贡献量超过总量的一半（57.14%）。
+当product_name为car2、sentiment为负面、volume_type为PGC时，platform中微博的声量贡献量正好达到总量的一半。
+当product_name为car2、sentiment为负面时，platform中微博的声量贡献量正好达到总量的一半。
+当product_name为car2、volume_type为PGC时，platform中微博的声量贡献量正好达到总量的一半。
+当product_name为car2、volume_type为PGC时，sentiment中中性的声量贡献量达到七成（72.41%），并且是其余数据的3到10倍。
+当product_name为car2、volume_type为UGC时，platform中微博的声量贡献量正好达到总量的一半。
+当product_name为car2时，platform中微博的声量贡献量正好达到总量的一半。
+当product_name为car2时，sentiment中中性的声量贡献量达到八成（85.96%），并且是其余数据的8到24倍。
+当product_name为car2时，volume_type中PGC的声量贡献量超过总量的一半（50.88%）。
+当platform为微博、sentiment为正面、volume_type为PGC时，product_name中car1的声量贡献量达到八成（83.33%）。
+当platform为微博、sentiment为正面时，product_name中car1的声量贡献量达到九成（92.31%）。
+当platform为微博、sentiment为正面时，volume_type中UGC的声量贡献量超过总量的一半（53.85%）。
+当platform为微博、sentiment为中性、volume_type为PGC时，product_name中car1的声量贡献量达到六成（67.19%）。
+当platform为微博、sentiment为中性、volume_type为UGC时，product_name中car2的声量贡献量达到六成（66.67%）。
+当platform为微博、sentiment为中性时，product_name中car1的声量贡献量超过总量的一半（53.77%）。
+当platform为微博、sentiment为中性时，volume_type中PGC的声量贡献量达到六成（60.38%）。
+当platform为微博、volume_type为PGC时，product_name中car1的声量贡献量达到六成（64.63%）。
+当platform为微博、volume_type为PGC时，sentiment中中性的声量贡献量达到七成（78.05%），并且是其余数据的5到10倍。
+当platform为微博、volume_type为UGC时，product_name中car1的声量贡献量正好达到总量的一半。
+当platform为微博、volume_type为UGC时，sentiment中中性的声量贡献量达到七成（75.0%）。
+当platform为微博时，product_name中car1的声量贡献量超过总量的一半（58.7%）。
+当platform为微博时，sentiment中中性的声量贡献量达到七成（76.81%），并且是其余数据的4到17倍。
+当platform为微博时，volume_type中PGC的声量贡献量超过总量的一半（59.42%）。
+当platform为短视频、sentiment为正面、volume_type为PGC时，product_name中car1的声量贡献量达到八成（83.33%）。
+当platform为短视频、sentiment为正面时，product_name中car1的声量贡献量达到八成（83.33%）。
+当platform为短视频、sentiment为中性、volume_type为PGC时，product_name中car1的声量贡献量达到六成（67.19%）。
+当platform为短视频、sentiment为中性、volume_type为UGC时，product_name中car1的声量贡献量正好达到总量的一半。
+当platform为短视频、sentiment为中性时，product_name中car1的声量贡献量超过总量的一半（59.17%）。
+当platform为短视频、sentiment为中性时，volume_type中PGC的声量贡献量超过总量的一半（53.33%）。
+当platform为短视频、volume_type为PGC时，product_name中car1的声量贡献量达到六成（64.63%）。
+当platform为短视频、volume_type为PGC时，sentiment中中性的声量贡献量达到七成（78.05%），并且是其余数据的5到10倍。
+当platform为短视频、volume_type为UGC时，product_name中car1的声量贡献量正好达到总量的一半。
+当platform为短视频时，product_name中car1的声量贡献量超过总量的一半（58.7%）。
+当platform为短视频时，sentiment中中性的声量贡献量达到八成（86.96%），并且是其余数据的10到20倍。
+当platform为短视频时，volume_type中PGC的声量贡献量超过总量的一半（59.42%）。
+当sentiment为正面、volume_type为PGC时，product_name中car1的声量贡献量达到八成（83.33%）。
+当sentiment为正面、volume_type为PGC时，platform中微博的声量贡献量正好达到总量的一半。
+当sentiment为正面时，product_name中car1的声量贡献量达到八成（89.47%）。
+当sentiment为正面时，platform中微博的声量贡献量达到六成（68.42%）。
+当sentiment为正面时，volume_type中PGC的声量贡献量达到六成（63.16%）。
+当sentiment为中性、volume_type为PGC时，product_name中car1的声量贡献量达到六成（67.19%）。
+当sentiment为中性、volume_type为PGC时，platform中微博的声量贡献量正好达到总量的一半。
+当sentiment为中性、volume_type为UGC时，product_name中car2的声量贡献量超过总量的一半（57.14%）。
+当sentiment为中性、volume_type为UGC时，platform中短视频的声量贡献量超过总量的一半（57.14%）。
+当sentiment为中性时，product_name中car1的声量贡献量超过总量的一半（56.64%）。
+当sentiment为中性时，platform中短视频的声量贡献量超过总量的一半（53.1%）。
+当sentiment为中性时，volume_type中PGC的声量贡献量超过总量的一半（56.64%）。
+当sentiment为负面、volume_type为PGC时，platform中微博的声量贡献量正好达到总量的一半。
+当sentiment为负面时，platform中微博的声量贡献量正好达到总量的一半。
+当volume_type为PGC时，product_name中car1的声量贡献量达到六成（64.63%）。
+当volume_type为PGC时，platform中微博的声量贡献量正好达到总量的一半。
+当volume_type为PGC时，sentiment中中性的声量贡献量达到七成（78.05%），并且是其余数据的5到10倍。
+当volume_type为UGC时，product_name中car1的声量贡献量正好达到总量的一半。
+当volume_type为UGC时，platform中微博的声量贡献量正好达到总量的一半。
+当volume_type为UGC时，sentiment中中性的声量贡献量达到八成（87.5%）。
+总体来看，product_name中car1的声量贡献量超过总量的一半（58.7%）。
+总体来看，platform中微博的声量贡献量正好达到总量的一半。
+总体来看，sentiment中中性的声量贡献量达到八成（81.88%），并且是其余数据的5到18倍。
+总体来看，volume_type中PGC的声量贡献量超过总量的一半（59.42%）。
+96
