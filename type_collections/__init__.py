@@ -1,3 +1,3 @@
 from .insight import *
-from .insights import *
+from .insightlist import *
 from .insight_type import InsightType
