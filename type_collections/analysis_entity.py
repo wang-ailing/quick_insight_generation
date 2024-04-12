@@ -7,7 +7,7 @@ import itertools
 class AnalysisEntity:
     def __init__(
             self, 
-            subspace: Union[DataFrame, dict ], 
+            subspace: Union[ DataFrame, dict ], 
             breakdown_dimension: str, 
             measure: str, 
             aggregate_function: str, 

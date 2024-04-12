@@ -6,7 +6,8 @@ from type_collections import InsightType
 def point_inght_detector(
         subspace_expression,
         breakdown_dimension,
-        df: Series
+        df: Series,
+        measure: str,
 ) -> Insight:
 
     # attribution detection
@@ -57,7 +58,7 @@ def point_inght_detector(
     subspace_used = {key: value for key, value in subspace_expression.items() if value != '*'}
     if len(subspace_used) == 0:
         sentence_for_insight = "总体来看，"
-        sentence_for_insight += breakdown_dimension + "中" + str(index_from_single_point) + "的声量" + string_from_single_point + "。"
+        sentence_for_insight += breakdown_dimension + "中" + str(index_from_single_point) + "的" + measure + string_from_single_point + "。"
     else :
         subspace_list = list(subspace_used.items())
         sentence_for_insight = "当"
@@ -69,7 +70,7 @@ def point_inght_detector(
                 sentence_for_insight += "、"
         sentence_for_insight += "时，"
         # for breakdown, breakdown_value in breakdown_dimensions.items():
-        sentence_for_insight += breakdown_dimension + "中" + str(index_from_single_point) + "的声量" + string_from_single_point + "。"
+        sentence_for_insight += breakdown_dimension + "中" + str(index_from_single_point) + "的" + measure + string_from_single_point + "。"
         
     # print(sentence_for_insight)
     return Insight(insight_type = insight_type, insight_sentence=sentence_for_insight)

@@ -44,6 +44,7 @@ def single_point_insight_list(
             subspace_expression=ae.subspace, 
             breakdown_dimension=ae.breakdown_dimension,
             df=df4insight_detector.iloc[:, 0],
+            measure=ae.measure,
         )
         if insight is not None:
             insightlist.append(insight)
