@@ -1,0 +1,192 @@
+{'product_name': 'car1', 'platform': '微博', 'sentiment': '正面'}
+breakdown dimension: volume_type
+{'product_name': 'car1', 'platform': '微博', 'sentiment': '中性'}
+breakdown dimension: volume_type
+{'product_name': 'car1', 'platform': '微博', 'volume_type': 'PGC'}
+breakdown dimension: sentiment
+{'product_name': 'car1', 'platform': '微博', 'volume_type': 'UGC'}
+breakdown dimension: sentiment
+{'product_name': 'car1', 'platform': '微博', 'volume_type': '*'}
+breakdown dimension: sentiment
+{'product_name': 'car1', 'platform': '微博', 'sentiment': '*'}
+breakdown dimension: volume_type
+{'product_name': 'car1', 'platform': '短视频', 'sentiment': '中性'}
+breakdown dimension: volume_type
+{'product_name': 'car1', 'platform': '短视频', 'volume_type': 'PGC'}
+breakdown dimension: sentiment
+{'product_name': 'car1', 'platform': '短视频', 'volume_type': '*'}
+breakdown dimension: sentiment
+{'product_name': 'car1', 'platform': '短视频', 'sentiment': '*'}
+breakdown dimension: volume_type
+{'product_name': 'car1', 'sentiment': '正面', 'volume_type': 'PGC'}
+breakdown dimension: platform
+{'product_name': 'car1', 'sentiment': '正面', 'volume_type': '*'}
+breakdown dimension: platform
+{'product_name': 'car1', 'sentiment': '正面', 'platform': '*'}
+breakdown dimension: volume_type
+{'product_name': 'car1', 'sentiment': '中性', 'volume_type': 'PGC'}
+breakdown dimension: platform
+{'product_name': 'car1', 'sentiment': '中性', 'volume_type': 'UGC'}
+breakdown dimension: platform
+{'product_name': 'car1', 'sentiment': '中性', 'volume_type': '*'}
+breakdown dimension: platform
+{'product_name': 'car1', 'sentiment': '中性', 'platform': '*'}
+breakdown dimension: volume_type
+{'product_name': 'car1', 'volume_type': 'PGC', 'sentiment': '*'}
+breakdown dimension: platform
+{'product_name': 'car1', 'volume_type': 'PGC', 'platform': '*'}
+breakdown dimension: sentiment
+{'product_name': 'car1', 'volume_type': 'UGC', 'sentiment': '*'}
+breakdown dimension: platform
+{'product_name': 'car1', 'volume_type': 'UGC', 'platform': '*'}
+breakdown dimension: sentiment
+{'product_name': 'car1', 'sentiment': '*', 'volume_type': '*'}
+breakdown dimension: platform
+{'product_name': 'car1', 'platform': '*', 'volume_type': '*'}
+breakdown dimension: sentiment
+{'product_name': 'car1', 'platform': '*', 'sentiment': '*'}
+breakdown dimension: volume_type
+{'product_name': 'car2', 'platform': '微博', 'sentiment': '中性'}
+breakdown dimension: volume_type
+{'product_name': 'car2', 'platform': '微博', 'volume_type': 'PGC'}
+breakdown dimension: sentiment
+{'product_name': 'car2', 'platform': '微博', 'volume_type': '*'}
+breakdown dimension: sentiment
+{'product_name': 'car2', 'platform': '微博', 'sentiment': '*'}
+breakdown dimension: volume_type
+{'product_name': 'car2', 'platform': '短视频', 'sentiment': '中性'}
+breakdown dimension: volume_type
+{'product_name': 'car2', 'platform': '短视频', 'volume_type': 'PGC'}
+breakdown dimension: sentiment
+{'product_name': 'car2', 'platform': '短视频', 'volume_type': '*'}
+breakdown dimension: sentiment
+{'product_name': 'car2', 'platform': '短视频', 'sentiment': '*'}
+breakdown dimension: volume_type
+{'product_name': 'car2', 'sentiment': '正面', 'volume_type': 'PGC'}
+breakdown dimension: platform
+{'product_name': 'car2', 'sentiment': '正面', 'volume_type': '*'}
+breakdown dimension: platform
+{'product_name': 'car2', 'sentiment': '中性', 'volume_type': 'PGC'}
+breakdown dimension: platform
+{'product_name': 'car2', 'sentiment': '中性', 'volume_type': 'UGC'}
+breakdown dimension: platform
+{'product_name': 'car2', 'sentiment': '中性', 'volume_type': '*'}
+breakdown dimension: platform
+{'product_name': 'car2', 'sentiment': '中性', 'platform': '*'}
+breakdown dimension: volume_type
+{'product_name': 'car2', 'sentiment': '负面', 'volume_type': 'PGC'}
+breakdown dimension: platform
+{'product_name': 'car2', 'sentiment': '负面', 'volume_type': '*'}
+breakdown dimension: platform
+{'product_name': 'car2', 'volume_type': 'PGC', 'sentiment': '*'}
+breakdown dimension: platform
+{'product_name': 'car2', 'volume_type': 'PGC', 'platform': '*'}
+breakdown dimension: sentiment
+{'product_name': 'car2', 'volume_type': 'UGC', 'sentiment': '*'}
+breakdown dimension: platform
+{'product_name': 'car2', 'sentiment': '*', 'volume_type': '*'}
+breakdown dimension: platform
+{'product_name': 'car2', 'platform': '*', 'volume_type': '*'}
+breakdown dimension: sentiment
+{'product_name': 'car2', 'platform': '*', 'sentiment': '*'}
+breakdown dimension: volume_type
+{'platform': '微博', 'sentiment': '正面', 'volume_type': 'PGC'}
+breakdown dimension: product_name
+{'platform': '微博', 'sentiment': '正面', 'volume_type': '*'}
+breakdown dimension: product_name
+{'platform': '微博', 'sentiment': '正面', 'product_name': '*'}
+breakdown dimension: volume_type
+{'platform': '微博', 'sentiment': '中性', 'volume_type': 'PGC'}
+breakdown dimension: product_name
+{'platform': '微博', 'sentiment': '中性', 'volume_type': 'UGC'}
+breakdown dimension: product_name
+{'platform': '微博', 'sentiment': '中性', 'volume_type': '*'}
+breakdown dimension: product_name
+{'platform': '微博', 'sentiment': '中性', 'product_name': '*'}
+breakdown dimension: volume_type
+{'platform': '微博', 'volume_type': 'PGC', 'sentiment': '*'}
+breakdown dimension: product_name
+{'platform': '微博', 'volume_type': 'PGC', 'product_name': '*'}
+breakdown dimension: sentiment
+{'platform': '微博', 'volume_type': 'UGC', 'sentiment': '*'}
+breakdown dimension: product_name
+{'platform': '微博', 'volume_type': 'UGC', 'product_name': '*'}
+breakdown dimension: sentiment
+{'platform': '微博', 'sentiment': '*', 'volume_type': '*'}
+breakdown dimension: product_name
+{'platform': '微博', 'product_name': '*', 'volume_type': '*'}
+breakdown dimension: sentiment
+{'platform': '微博', 'product_name': '*', 'sentiment': '*'}
+breakdown dimension: volume_type
+{'platform': '短视频', 'sentiment': '正面', 'volume_type': 'PGC'}
+breakdown dimension: product_name
+{'platform': '短视频', 'sentiment': '正面', 'volume_type': '*'}
+breakdown dimension: product_name
+{'platform': '短视频', 'sentiment': '中性', 'volume_type': 'PGC'}
+breakdown dimension: product_name
+{'platform': '短视频', 'sentiment': '中性', 'volume_type': 'UGC'}
+breakdown dimension: product_name
+{'platform': '短视频', 'sentiment': '中性', 'volume_type': '*'}
+breakdown dimension: product_name
+{'platform': '短视频', 'sentiment': '中性', 'product_name': '*'}
+breakdown dimension: volume_type
+{'platform': '短视频', 'volume_type': 'PGC', 'sentiment': '*'}
+breakdown dimension: product_name
+{'platform': '短视频', 'volume_type': 'PGC', 'product_name': '*'}
+breakdown dimension: sentiment
+{'platform': '短视频', 'volume_type': 'UGC', 'sentiment': '*'}
+breakdown dimension: product_name
+{'platform': '短视频', 'sentiment': '*', 'volume_type': '*'}
+breakdown dimension: product_name
+{'platform': '短视频', 'product_name': '*', 'volume_type': '*'}
+breakdown dimension: sentiment
+{'platform': '短视频', 'product_name': '*', 'sentiment': '*'}
+breakdown dimension: volume_type
+{'sentiment': '正面', 'volume_type': 'PGC', 'platform': '*'}
+breakdown dimension: product_name
+{'sentiment': '正面', 'volume_type': 'PGC', 'product_name': '*'}
+breakdown dimension: platform
+{'sentiment': '正面', 'platform': '*', 'volume_type': '*'}
+breakdown dimension: product_name
+{'sentiment': '正面', 'product_name': '*', 'volume_type': '*'}
+breakdown dimension: platform
+{'sentiment': '正面', 'product_name': '*', 'platform': '*'}
+breakdown dimension: volume_type
+{'sentiment': '中性', 'volume_type': 'PGC', 'platform': '*'}
+breakdown dimension: product_name
+{'sentiment': '中性', 'volume_type': 'PGC', 'product_name': '*'}
+breakdown dimension: platform
+{'sentiment': '中性', 'volume_type': 'UGC', 'platform': '*'}
+breakdown dimension: product_name
+{'sentiment': '中性', 'volume_type': 'UGC', 'product_name': '*'}
+breakdown dimension: platform
+{'sentiment': '中性', 'platform': '*', 'volume_type': '*'}
+breakdown dimension: product_name
+{'sentiment': '中性', 'product_name': '*', 'volume_type': '*'}
+breakdown dimension: platform
+{'sentiment': '中性', 'product_name': '*', 'platform': '*'}
+breakdown dimension: volume_type
+{'sentiment': '负面', 'volume_type': 'PGC', 'product_name': '*'}
+breakdown dimension: platform
+{'sentiment': '负面', 'product_name': '*', 'volume_type': '*'}
+breakdown dimension: platform
+{'volume_type': 'PGC', 'platform': '*', 'sentiment': '*'}
+breakdown dimension: product_name
+{'volume_type': 'PGC', 'product_name': '*', 'sentiment': '*'}
+breakdown dimension: platform
+{'volume_type': 'PGC', 'product_name': '*', 'platform': '*'}
+breakdown dimension: sentiment
+{'volume_type': 'UGC', 'platform': '*', 'sentiment': '*'}
+breakdown dimension: product_name
+{'volume_type': 'UGC', 'product_name': '*', 'sentiment': '*'}
+breakdown dimension: platform
+{'volume_type': 'UGC', 'product_name': '*', 'platform': '*'}
+breakdown dimension: sentiment
+{'platform': '*', 'sentiment': '*', 'volume_type': '*'}
+breakdown dimension: product_name
+{'product_name': '*', 'sentiment': '*', 'volume_type': '*'}
+breakdown dimension: platform
+{'product_name': '*', 'platform': '*', 'volume_type': '*'}
+breakdown dimension: sentiment
+{'product_name': '*', 'platform': '*', 'sentiment': '*'}
+breakdown dimension: volume_type

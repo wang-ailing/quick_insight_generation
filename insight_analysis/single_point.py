@@ -44,8 +44,9 @@ def attribution_detection(data: Series) -> Tuple[Dict[str, Union[int, float]], s
             - The string contains the explanation of the attribution element.
             - If the attribution element is not found, the string is "None".
     """
+    # TODO: 两个值还是多个值
     count_negative = (data < 0).sum()
-    if count_negative !=0:
+    if count_negative > 0:
         data = data[data >= 0]
     if len(data) == 1:
         return {"index": data.index[0]}, \

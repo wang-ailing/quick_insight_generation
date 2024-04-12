@@ -3,36 +3,34 @@ from pandas import DataFrame, Series
 from type_collections import Insight
 from type_collections import InsightType
 
-def daily_radar_volume_single_point_detector(
-        subspace,
+def point_inght_detector(
+        subspace_expression,
         breakdown_dimension,
-        selected_df_grouped_mean: Series) -> Insight:
-    
-    # volume = data['volume']
-    volume = selected_df_grouped_mean
+        df: Series
+) -> Insight:
 
     # attribution detection
-    attribution_result = attribution_detection(volume)
+    attribution_result = attribution_detection(df)
     # print(attribution_result)
 
     # outstanding 1 detection
-    outstanding_1_result = outstanding_1_detection(volume)
+    outstanding_1_result = outstanding_1_detection(df)
     # print(outstanding_1_result)
 
     # outstanding 2 detection 
     # TODO: 后续处理
-    outstanding_2_result = outstanding_2_detection(volume)
-    print(outstanding_2_result)
+    outstanding_2_result = outstanding_2_detection(df)
+    # print(outstanding_2_result)
 
     # outstanding last detection
     # TODO: 后续处理
-    outstanding_last_result = outstanding_last_detection(volume)
-    print(outstanding_last_result)
+    outstanding_last_result = outstanding_last_detection(df)
+    # print(outstanding_last_result)
 
     # evenness detection
     # TODO: 后续处理
-    evenness_result = evenness_detection(volume)
-    print(evenness_result)
+    evenness_result = evenness_detection(df)
+    # print(evenness_result)
 
     insight_type = None
 
@@ -56,7 +54,7 @@ def daily_radar_volume_single_point_detector(
 
     # print("subspace:", subspace)
 
-    subspace_used = {key: value for key, value in subspace.items() if value != '*'}
+    subspace_used = {key: value for key, value in subspace_expression.items() if value != '*'}
     if len(subspace_used) == 0:
         sentence_for_insight = "总体来看，"
         sentence_for_insight += breakdown_dimension + "中" + str(index_from_single_point) + "的声量" + string_from_single_point + "。"
